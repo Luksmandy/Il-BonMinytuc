@@ -1,0 +1,59 @@
+body{margin:0;
+    border-width: 0 0 0 0;
+    width: 100%;
+    text-align: center;
+    font-family: 'Abel', sans-serif;
+    
+    
+    
+    }
+.topcloud{ border-radius: 100%;
+        align-self: center;
+        height: 250PX;
+        width: 250px;
+        margin-top: 50px;
+        }
+.topcontainer{
+        background-color: #FDA65D;
+        width: 100%;
+        padding-bottom: 40px;
+    }
+.midcontainer{
+    background-color: #FFD07F;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+.Entrada{
+        background-color: #FDA65D;
+        width: 100%;
+        padding-top: 20px;
+        padding-bottom: 40px;
+    }
+.PlatoPrincipal{
+        background-color: #FFD07F;
+        width: 100%;
+        padding-top: 20px;
+        padding-bottom: 40px;
+    }
+
+.Guarniciones{
+        background-color: #FDA65D;
+        width: 100%;
+        padding-top: 20px;
+        padding-bottom: 40px;
+    }
+.Postres{
+        background-color: #FFD07F;
+        width: 100%;
+        padding-top: 20px;
+        padding-bottom: 40px;
+    }
+h1, h2, h3, td{ color:#911F27}
+.top{
+    font-weight:bold
+}
+table{
+    margin-left: auto;
+  margin-right: auto;
+}
